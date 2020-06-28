@@ -1,0 +1,50 @@
+#card-information-benef {
+  background: #962d14 0% 0% no-repeat padding-box;
+  box-shadow: 0px 0px 10px #00000033;
+  border-radius: 32px 0px 32px 32px;
+  color: #ffffff;
+  padding: 32px;
+}
+
+#nome-benef {
+  display: flex;
+  align-items: center;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+#profissao-benef {
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.meta-benef {
+  font-size: 12px;
+}
+
+.infos-benef {
+  font-size: 14px;
+}
+
+.icon-edit-benef {
+  font-size: 1.5rem;
+}
+
+.tag-info-benef {
+  display: flex;
+  align-items: center;
+  background: #545454 0% 0% no-repeat padding-box;
+  border-radius: 13px;
+  padding-left: 11px;
+  padding-right: 11px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  font-size: 12px;
+}
+
+.titulo-topico-benef {
+  font-size: 16px;
+  font-weight: 800;
+}
