@@ -1,7 +1,7 @@
 # WebComponents
 
 Web Component desenvolvido com Angular para que possa ser chamado a partir de qualquer front-end, independente de framework, basta ser chamado a partir de um simples arquivo HTML:
-                <html>
+                `<html>
                   <head>
                     <script src="./polyfills.js"></script>
                     <script src="./vendor.js"></script>
@@ -12,7 +12,7 @@ Web Component desenvolvido com Angular para que possa ser chamado a partir de qu
                   <body>
                     <card-beneficiario></card-beneficiario>
                   </body>
-                </html>
+                </html>`
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.0.
 
