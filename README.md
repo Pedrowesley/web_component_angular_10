@@ -1,4 +1,4 @@
-# WebComponents
+# WebComponents in Angular.v10
 
 This project contains a Web Component developed with Angular that can be embedded into any front-end application, regardless of the framework being used. The component can be called simply by adding it to an HTML file like so:
                 `<html>
