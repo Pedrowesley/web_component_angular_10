@@ -1,6 +1,6 @@
 # WebComponents
 
-Web Component desenvolvido com Angular para que possa ser chamado a partir de qualquer front-end, independente de framework, basta ser chamado a partir de um simples arquivo HTML:
+This project contains a Web Component developed with Angular that can be embedded into any front-end application, regardless of the framework being used. The component can be called simply by adding it to an HTML file like so:
                 `<html>
                   <head>
                     <script src="./polyfills.js"></script>
